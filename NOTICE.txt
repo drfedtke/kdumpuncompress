@@ -6,7 +6,7 @@ GNU General Public License (GPL). See the file COPYING.
 
 This software includes:
 
-Python-LZO -- Python bindings for LZO
+1) Python-LZO -- Python bindings for LZO
 
 Copyright (c) 1996-2002 Markus F.X.J. Oberhumer
                           <markus@oberhumer.com>
@@ -14,3 +14,11 @@ Copyright (c) 1996-2002 Markus F.X.J. Oberhumer
               Copyright (c) 2011-2016 Joshua D. Boyd
                           <jdboyd@jdboyd.net>
                  https://github.com/jd-boyd/python-lzo
+                 
+                 
+2) WiresharkXML.py from 
+   https://github.com/boundary/wireshark/blob/master/tools/WiresharkXML.py
+
+Routines for reading PDML produced from TShark.
+
+Copyright (c) 2003, 2013 by Gilbert Ramirez <gram@alumni.rice.edu>
